@@ -1,0 +1,10 @@
+HTML Semantico
+Melhorias nas versoes HTML
+Acessibilidade
+Web Scraping
+<main> , <header> , <footer>
+<nav> , <section> , <aside>
+<article> , <blockquote> , <q>
+<figure> , <figcaption> , <picture>
+
+Resenha: o que é SEO?

@@ -1,0 +1,41 @@
+<main> , <header> , <footer> , <nav> , <section>
+<aside> , <article> , <video>...
+
+Deprecated
+
+<basefont> , <big> , <center> , <font> , <strike> , <tt> , 
+<frame> , <frameset>...
+
+<address> : endereço
+<section> : e como se fosse a <div> : organização
+<aside>: serve para colocar algo que está relacionado, mas não é a parte principal da página.
+Exemplos comuns de <aside>
+
+📢 Anúncios / divulgação (pode acontecer)
+
+🔗 Links relacionados
+
+📰 Posts populares
+
+👤 Informações do autor
+
+📝 Curiosidades ou observações
+
+
+<nav> - São Links de navegação
+<time datetime> - colocar data e hora da publicação na pagina
+<time pubdate>
+<blockquote> - serve para citação de algo no seu texto
+<blockquote cite> - serve pra colocar uma citação de alguma coisa do texto de outro site.
+<q> - serve para um citação menor.
+<q cite> - serve pra colocar uma citação de alguma coisa do texto de outro site.
+
+
+<style>
+padding - serve para separar as palavras no css
+
+<figure> - tag de figura para colocar imagens
+<figcaption> - colocar uma descriçao para imagem
+
+<picture>
+<source srcset> - função para trocar a imagem de acordo com a largura.

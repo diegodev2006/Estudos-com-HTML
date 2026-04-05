@@ -1,0 +1,1 @@
+<iframe> - serve para voce pegar informaçoes de outros sites e colocar na sua página HTML tipo um video do youtube ou mapa do google maps em algum endereço.

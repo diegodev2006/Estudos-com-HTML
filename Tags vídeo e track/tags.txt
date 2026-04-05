@@ -1,0 +1,31 @@
+<video>
+<video controls> "mesma coisa do audio aparece o player pra poder pausar."
+<source src "fonte do video">
+<track> "ela fica dentro do video. "track nada mais do que legenda."
+<track default> "voce defini a legenda padrao que carrega no video por exemplo portugues"
+srclang "coloca a tradução da legenda"
+kind: tipos de legendas
+
+-captions: fala da boca da pessoa
+- subtitles : e parecido com o captions mais ele meio que mostra outras coisas especificas na fala : casa de fulando tal 
+- chapters : pica o video em picadinhos minuto tal ele fala uma coisa e assim por diante 
+
+
+mp4 - tipo de arquivos de videos mais atuais "navegadores atuais."
+webm - tipo de arquivos de video mais antigos "navegados antigos."
+
+
+exemplo:
+
+<body>
+
+<video controls>
+
+<source src "video.mp4">
+<source src "video.webm">
+<track>
+Seu navegador nao suporta o video   
+
+</video>
+
+</body>

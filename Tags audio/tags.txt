@@ -1,0 +1,16 @@
+<audio>
+<source src "fonte da musica">
+<audio controls> "mostrar os botoes de play da musica"
+<audio autoplay> "tipo de site com uma musica de fundo"
+
+ex 
+<body>
+  <audio controls>
+ <source src = "matue.mp3">
+ Seu navegador nao tem suporte o elemento de musica "mensagem avisando quando nao suporta o tipo de audio serve para navegadores mais antigos."
+</audio>
+
+</body>
+
+
+<input type = "range" min "0" max "100">

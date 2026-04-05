@@ -1,0 +1,11 @@
+- Entendendo Tags
+
+- Tag <img>
+- Tag <audio>
+- Tag <video>
+- Tag <track>
+- Tag <iframe>
+
+
+.svg - não perde a resolução da imagem
+<img title> titulo da imagem quando passa o mouse em cima pra buscar informaçoes

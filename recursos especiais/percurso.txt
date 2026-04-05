@@ -1,0 +1,43 @@
+<datalist>
+<code> , <kbd> , <pre>
+<details> , <summary>
+<mark> (com javascript)
+<meter> , <progress>
+<canvas> (parte 1)
+<canvas> (parte 2)
+Novos atributos bem úteis no HTML5
+
+
+
+
+<datalist> - balaozinho de opçoes
+
+<select>
+<option>Nome da opção</option>
+
+</select>
+
+esse também e quase a mesma coisa.
+
+
+<kbd> - esse comando serve para mostrar comando de teclado exemplo "input de teclado."
+
+<kbd>CTRL</kbd> + <kbd>C</kbd> - ele fica meio em negrito.
+
+resumido o <kbd> - serve para comandos de teclado
+
+<code> - serve para comandos em geral. ex: <code>background-color</code> - comando de mudar o fundo da pagina "CSS"
+<pre> - serve para comandos que tem mais linhas ex
+code{
+            background-color: #f1f1f1;
+            color: red;
+        }
+        da para usar junto com o <code>
+
+
+<details> - fala sobre detalhes
+
+<progress> - definir o progresso de uma ação.
+<meter> - ele é um medidor.
+<mark> - marca texto
+<canvas> - e uma tag usada para games
